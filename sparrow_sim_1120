@@ -1,0 +1,464 @@
+Running simulations at 0.95 load
+
+******Multiget
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Simulation ended after 2707.44360127 milliseconds (10178 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  135.1856634
+Tasks replied to immeiately:  397934
+
+Sparrow
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Idle time: 7063981.59598 (0.0656219166537), failed get task time: 990556.0 (0.0092019185483), failed steals time: 0.0 (0.0), successful GetTask()s: 1008265.0 (0.0093664289602), successful steals: 0.0 (0.0), (total: 0.0841902641622)
+Simulation ended after 2691.16705066 milliseconds (10190 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 8071 jobs
+Average response time:  145.144368779
+Average wait time:  43.4301293154
+No wait jobs: 0/10000 (0.000000)
+
+Cancellation
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Idle time: 8553681.44067 (0.0795270235442), failed get task time: 71400.0 (0.000663834574673), failed steals time: 0.0 (0.0), successful GetTask()s: 1008024.0 (0.00937200536835), successful steals: 0.0 (0.0), (total: 0.0895628634872)
+Simulation ended after 2688.92291559 milliseconds (10195 jobs started, 0 tasks stolen)
+928303/1000000 cancellations successful
+10000 complete jobs
+Included 8139 jobs
+Average response time:  135.909228203
+Average wait time:  34.5174917589
+No wait jobs: 0/10000 (0.000000)
+
+Centralized
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Simulation ended after 2658.23942499 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 8098 jobs
+Average response time:  100.228545174
+
+Random
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Simulation ended after 3408.33068106 milliseconds (12816 jobs started)
+10000 complete jobs
+Included 8026 jobs
+Average response time:  706.451719196
+
+Per task
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Simulation ended after 2829.69917338 milliseconds (10680 jobs started)
+10000 complete jobs
+Included 8072 jobs
+Average response time:  261.078106687
+
+Batch sampling
+Interarrival delay: 0.263157894737 (avg slots in use: 38000.0)
+Simulation ended after 2811.68983624 milliseconds (10520 jobs started)
+10000 complete jobs
+Included 8146 jobs
+Average response time:  251.481708717
+
+
+
+
+
+
+
+
+
+Running simulations at 0.9 load
+
+******Multiget
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Simulation ended after 2783.6472462 milliseconds (10123 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  114.359575252
+Tasks replied to immeiately:  731078
+
+Sparrow
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Idle time: 16767695.993 (0.14752215604), failed get task time: 991779.0 (0.00872566967196), failed steals time: 0.0 (0.0), successful GetTask()s: 1003302.0 (0.00882704900307), successful steals: 0.0 (0.0), (total: 0.165074874715)
+Simulation ended after 2841.55554039 milliseconds (10042 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 8298 jobs
+Average response time:  114.112678678
+Average wait time:  15.0451077019
+No wait jobs: 413/10000 (0.041300)
+
+Cancellation
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Idle time: 15663832.8769 (0.137349801677), failed get task time: 86554.0 (0.000758956944176), failed steals time: 0.0 (0.0), successful GetTask()s: 1002556.0 (0.00879100721082), successful steals: 0.0 (0.0), (total: 0.146899765832)
+Simulation ended after 2851.0839997 milliseconds (10031 jobs started, 0 tasks stolen)
+913058/1000000 cancellations successful
+10000 complete jobs
+Included 8280 jobs
+Average response time:  115.455435361
+Average wait time:  14.8231575537
+No wait jobs: 299/10000 (0.029900)
+
+Centralized
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Simulation ended after 2762.27425727 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 8115 jobs
+Average response time:  98.9091202739
+
+Random
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Simulation ended after 3530.74518617 milliseconds (12718 jobs started)
+10000 complete jobs
+Included 8158 jobs
+Average response time:  736.424768608
+
+Per task
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Simulation ended after 2918.80968939 milliseconds (10519 jobs started)
+10000 complete jobs
+Included 8238 jobs
+Average response time:  253.328294958
+
+Batch sampling
+Interarrival delay: 0.277777777778 (avg slots in use: 36000.0)
+Simulation ended after 2856.50640744 milliseconds (10434 jobs started)
+10000 complete jobs
+Included 8196 jobs
+Average response time:  218.859262453
+
+
+
+
+
+
+
+
+
+Running simulations at 0.8 load
+
+******Multiget
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Simulation ended after 3100.84419252 milliseconds (10004 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  101.211929071
+Tasks replied to immeiately:  1155439
+
+Sparrow
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Idle time: 29314114.5554 (0.229668108618), failed get task time: 992612.0 (0.00777684484384), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00783472781292), successful steals: 0.0 (0.0), (total: 0.245279681275)
+Simulation ended after 3190.92131813 milliseconds (10001 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 8356 jobs
+Average response time:  102.293956725
+Average wait time:  2.35833566036
+No wait jobs: 5257/10000 (0.525700)
+
+Cancellation
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Idle time: 27855784.8694 (0.222299988263), failed get task time: 181094.0 (0.00144520049473), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00798038860885), successful steals: 0.0 (0.0), (total: 0.231725577366)
+Simulation ended after 3132.67952544 milliseconds (10002 jobs started, 0 tasks stolen)
+818421/1000000 cancellations successful
+10000 complete jobs
+Included 8367 jobs
+Average response time:  103.206809898
+Average wait time:  3.18404456858
+No wait jobs: 4692/10000 (0.469200)
+
+Centralized
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Simulation ended after 3118.50218931 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 8370 jobs
+Average response time:  100.970528885
+
+Random
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Simulation ended after 3678.21863322 milliseconds (11860 jobs started)
+10000 complete jobs
+Included 8393 jobs
+Average response time:  596.576827229
+
+Per task
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Simulation ended after 3229.99148209 milliseconds (10303 jobs started)
+10000 complete jobs
+Included 8418 jobs
+Average response time:  211.371485862
+
+Batch sampling
+Interarrival delay: 0.3125 (avg slots in use: 32000.0)
+Simulation ended after 3196.53254989 milliseconds (10106 jobs started)
+10000 complete jobs
+Included 8420 jobs
+Average response time:  152.509995788
+
+
+
+
+
+
+
+
+Running simulations at 0.7 load
+
+******Multiget
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Simulation ended after 3652.50084986 milliseconds (10002 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  101.222011738
+Tasks replied to immeiately:  1381483
+
+Sparrow
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Idle time: 41379929.9512 (0.291570358181), failed get task time: 993491.0 (0.00700031457426), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00704617814782), successful steals: 0.0 (0.0), (total: 0.305616850903)
+Simulation ended after 3548.02269763 milliseconds (10001 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 8631 jobs
+Average response time:  103.165130741
+Average wait time:  1.04841158075
+No wait jobs: 8327/10000 (0.832700)
+
+Cancellation
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Idle time: 45860077.5909 (0.31845333543), failed get task time: 422218.0 (0.00293189059944), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00694402085994), successful steals: 0.0 (0.0), (total: 0.32832924689)
+Simulation ended after 3600.2195996 milliseconds (10000 jobs started, 0 tasks stolen)
+577409/1000000 cancellations successful
+10000 complete jobs
+Included 8628 jobs
+Average response time:  100.341169246
+Average wait time:  1.00886071837
+No wait jobs: 8579/10000 (0.857900)
+
+Centralized
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Simulation ended after 3571.46076066 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 8597 jobs
+Average response time:  98.4149482244
+
+Random
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Simulation ended after 3950.0598777 milliseconds (11183 jobs started)
+10000 complete jobs
+Included 8654 jobs
+Average response time:  451.283749117
+
+Per task
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Simulation ended after 3714.02791331 milliseconds (10174 jobs started)
+10000 complete jobs
+Included 8613 jobs
+Average response time:  166.281839053
+
+Batch sampling
+Interarrival delay: 0.357142857143 (avg slots in use: 28000.0)
+Simulation ended after 3625.0643995 milliseconds (10047 jobs started)
+10000 complete jobs
+Included 8571 jobs
+Average response time:  114.906067935
+
+
+
+
+
+
+
+
+Running simulations at 0.5 load
+
+******Multiget
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Simulation ended after 4989.19400569 milliseconds (10001 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  101.089869685
+Tasks replied to immeiately:  1729426
+
+Sparrow
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Idle time: 97071424.6917 (0.487666093975), failed get task time: 998742.0 (0.00501746638185), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00502378630502), successful steals: 0.0 (0.0), (total: 0.497707346662)
+Simulation ended after 4976.32631687 milliseconds (10000 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 9019 jobs
+Average response time:  101.440607505
+Average wait time:  1.0
+No wait jobs: 9015/10000 (0.901500)
+
+Cancellation
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Idle time: 95400703.0815 (0.486196351935), failed get task time: 751241.0 (0.00382859477788), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00509636025973), successful steals: 0.0 (0.0), (total: 0.495121306972)
+Simulation ended after 4905.46168754 milliseconds (10002 jobs started, 0 tasks stolen)
+248610/1000000 cancellations successful
+10000 complete jobs
+Included 8954 jobs
+Average response time:  100.927900727
+Average wait time:  1.0
+No wait jobs: 8948/10000 (0.894800)
+
+Centralized
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Simulation ended after 5033.6261015 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 9051 jobs
+Average response time:  98.2493906251
+
+Random
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Simulation ended after 5233.50186929 milliseconds (10362 jobs started)
+10000 complete jobs
+Included 9064 jobs
+Average response time:  268.389312076
+
+Per task
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Simulation ended after 5092.05051889 milliseconds (10011 jobs started)
+10000 complete jobs
+Included 9040 jobs
+Average response time:  109.745779796
+
+Batch sampling
+Interarrival delay: 0.5 (avg slots in use: 20000.0)
+Simulation ended after 5005.66648001 milliseconds (10003 jobs started)
+10000 complete jobs
+Included 9009 jobs
+Average response time:  101.336773528
+
+
+
+
+
+
+
+
+Running simulations at 0.3 load
+
+******Multiget
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Simulation ended after 8304.87393284 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  100.738948908
+Tasks replied to immeiately:  2125970
+
+Sparrow
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Idle time: 225653303.199 (0.679132802444), failed get task time: 999737.0 (0.00300883780957), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00300962934208), successful steals: 0.0 (0.0), (total: 0.685151269596)
+Simulation ended after 8306.67074195 milliseconds (10000 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 9407 jobs
+Average response time:  102.094478759
+Average wait time:  1.0
+No wait jobs: 9406/10000 (0.940600)
+
+Cancellation
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Idle time: 223452467.149 (0.680548343124), failed get task time: 943901.0 (0.00287475126061), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00304560675389), successful steals: 0.0 (0.0), (total: 0.686468701138)
+Simulation ended after 8208.54496991 milliseconds (10001 jobs started, 0 tasks stolen)
+55999/1000000 cancellations successful
+10000 complete jobs
+Included 9388 jobs
+Average response time:  100.731882883
+Average wait time:  1.0
+No wait jobs: 9383/10000 (0.938300)
+
+Centralized
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Simulation ended after 8300.28422782 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 9406 jobs
+Average response time:  101.074429887
+
+Random
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Simulation ended after 8384.31530652 milliseconds (10089 jobs started)
+10000 complete jobs
+Included 9403 jobs
+Average response time:  168.408042665
+
+Per task
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Simulation ended after 8470.15562825 milliseconds (10005 jobs started)
+10000 complete jobs
+Included 9404 jobs
+Average response time:  101.686482077
+
+Batch sampling
+Interarrival delay: 0.833333333333 (avg slots in use: 12000.0)
+Simulation ended after 8451.80279597 milliseconds (10002 jobs started)
+10000 complete jobs
+Included 9385 jobs
+Average response time:  101.114386868
+
+
+
+
+
+
+
+
+Running simulations at 0.1 load
+
+******Multiget
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Simulation ended after 24661.0551307 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 9999 jobs
+Average response time:  101.304345938
+Tasks replied to immeiately:  2534315
+
+Sparrow
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Idle time: 867803271.101 (0.876841884264), failed get task time: 999900.0 (0.00101031446789), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.00101041550944), successful steals: 0.0 (0.0), (total: 0.878862614242)
+Simulation ended after 24742.2963785 milliseconds (10000 jobs started, 0 tasks stolen)
+0/0 cancellations successful
+10000 complete jobs
+Included 9788 jobs
+Average response time:  102.168872651
+Average wait time:  1.0
+No wait jobs: 9787/10000 (0.978700)
+
+Cancellation
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Idle time: 880638437.516 (0.879478999711), failed get task time: 998515.0 (0.000997200367354), failed steals time: 0.0 (0.0), successful GetTask()s: 1000000.0 (0.000998683412221), successful steals: 0.0 (0.0), (total: 0.881474883491)
+Simulation ended after 25032.9580867 milliseconds (10001 jobs started, 0 tasks stolen)
+1385/1000000 cancellations successful
+10000 complete jobs
+Included 9808 jobs
+Average response time:  101.067607803
+Average wait time:  1.0
+No wait jobs: 9808/10000 (0.980800)
+
+Centralized
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Simulation ended after 24640.6355248 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 9786 jobs
+Average response time:  100.072835398
+
+Random
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Simulation ended after 25107.916584 milliseconds (10002 jobs started)
+10000 complete jobs
+Included 9797 jobs
+Average response time:  103.904851524
+
+Per task
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Simulation ended after 25069.7096552 milliseconds (10000 jobs started)
+10000 complete jobs
+Included 9792 jobs
+Average response time:  100.659116208
+
+Batch sampling
+Interarrival delay: 2.5 (avg slots in use: 4000.0)
+Simulation ended after 25103.6273009 milliseconds (10002 jobs started)
+10000 complete jobs
+Included 9806 jobs
+Average response time:  102.435740354
+
